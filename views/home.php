@@ -84,7 +84,7 @@
     }
 </style>
 
-<a href="#" class="back-arrow">&#8592;</a>
+<a href="../menu.php" class="back-arrow">&#8592;</a>
 
 <div class="form-container">
     <h1>Bem-vindo</h1>

@@ -16,7 +16,7 @@ if (mysqli_num_rows($consulta)==1){
 	$_SESSION['login']=true;
 	$_SESSION['usuario']=$usuario;
 	
-	header('location:index.php');
+	header('location:views/teste.php');
 }
 else{
 	/*echo 'usuário e/ou senha inválido(s)';*/
