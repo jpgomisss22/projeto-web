@@ -6,6 +6,7 @@
   <title>Biblioteca Interativa</title>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
   <link rel="stylesheet" href="../CSS/main.css">
+  
 </head>
 <body>
 
@@ -42,20 +43,20 @@
       <button class="scroll-arrow left" onclick="scrollLeft('cat')">&#8249;</button>
       <div class="categorias-lista" id="cat">
         <div class="categoria">
-          <img src="../IMG/romance.png" alt="Romance">
-          <p>Romance</p>
+          <img src="../IMG/aventura.jpg" alt="Aventura">
+          <p>Aventura</p>
+        </div>
+        <div class="categoria">
+          <img src="../IMG/suspense.jpg" alt="Suspense">
+          <p>Suspense</p>
         </div>
         <div class="categoria">
           <img src="../IMG/romance.png" alt="Romance">
           <p>Romance</p>
         </div>
         <div class="categoria">
-          <img src="../IMG/romance.png" alt="Romance">
-          <p>Romance</p>
-        </div>
-        <div class="categoria">
-          <img src="../IMG/magia.png" alt="Magia">
-          <p>Magia</p>
+          <img src="../IMG/poesia.jpg" alt="Poesia">
+          <p>Poesia</p>
         </div>
         <div class="categoria">
           <img src="../IMG/drama.png" alt="Drama">
@@ -111,8 +112,6 @@
   <i class="fa-solid fa-heart"></i>
   <i class="fa-solid fa-user"></i>
 </footer>
-
-<script src="../script.js"></script>
 
 </body>
 </html>
